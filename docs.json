@@ -76,14 +76,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Support Server",
         "href": "https://discord.gg/HCmGGnFPWN"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Invite Bot",
+      "href": "https://discord.com/oauth2/authorize?client_id=1452426890290790611"
     }
   },
   "contextual": {
