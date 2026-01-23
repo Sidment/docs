@@ -29,8 +29,8 @@
           {
             "group": "Bot Basics",
             "pages": [
-              "introduction",
-              "development"
+              "welcome",
+              "vars"
             ]
           },
           {
