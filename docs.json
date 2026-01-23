@@ -59,7 +59,15 @@
         ]
       },
       {
-        "tab": "Guides"
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Coming Soon",
+            "pages": [
+              "guides/coming-soon/introduction"
+            ]
+          }
+        ]
       }
     ]
   },
