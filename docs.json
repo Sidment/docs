@@ -25,7 +25,6 @@
     "tabs": [
       {
         "tab": "Documentation",
-        "icon": "book",
         "groups": [
           {
             "group": "Bot Basics",
@@ -63,7 +62,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Guides",
         "groups": [
           {
             "group": "API documentation",
