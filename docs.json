@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
-  "name": "Mint Starter Kit",
+  "name": "SaturnBot Documentation",
   "colors": {
     "primary": "#3464e1",
     "light": "#3464e1",
