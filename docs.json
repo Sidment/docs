@@ -29,14 +29,20 @@
           {
             "group": "Bot Basics",
             "pages": [
-              "welcome",
-              "vars"
+              "introduction",
+              "variables"
             ]
           },
           {
             "group": "Updates & Support",
             "pages": [
               "help/updates"
+            ]
+          },
+          {
+            "group": "Modules",
+            "pages": [
+              "m/verification"
             ]
           }
         ]
