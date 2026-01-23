@@ -7,6 +7,11 @@
     "light": "#3464e1",
     "dark": "#3464e1"
   },
+  "banner": {
+  "content": "⚠️ Saturn is currently not available, see our [updatelog](/help/updates) for more details.",
+  "dismissible": false 
+  },
+
   "favicon": "/Icon.png",
   "navigation": {
     "global": {
@@ -36,6 +41,7 @@
           {
             "group": "Updates & Support",
             "pages": [
+              "help/news",
               "help/updates"
             ]
           },
