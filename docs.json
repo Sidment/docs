@@ -12,24 +12,20 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
+          "anchor": "Support",
+          "icon": "circle-question",
           "color": {
             "light": "#3464e1",
             "dark": "#3464e1"
           },
           "href": "https://discord.gg/HCmGGnFPWN"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
         }
       ]
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
+        "icon": "book",
         "groups": [
           {
             "group": "Getting started",
