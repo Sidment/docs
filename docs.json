@@ -28,9 +28,8 @@
         "groups": [
           {
             "group": "Bot Basics",
-            "icon": "gear-code",
             "pages": [
-              "index",
+              "introduction",
               "quickstart",
               "development"
             ]
