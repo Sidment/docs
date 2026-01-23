@@ -30,15 +30,13 @@
             "group": "Bot Basics",
             "pages": [
               "introduction",
-              "quickstart",
               "development"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Updates & Support",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "help/updates"
             ]
           },
           {
