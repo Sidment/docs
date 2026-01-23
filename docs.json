@@ -63,9 +63,7 @@
         "groups": [
           {
             "group": "Coming Soon",
-            "pages": [
-              "guides/coming-soon/introduction"
-            ]
+            "pages": []
           }
         ]
       }
