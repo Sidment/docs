@@ -66,8 +66,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/SaturnSVG.svg",
-    "dark": "/logo/SaturnSVG.svg"
+    "light": "/logo/SaturnT.png",
+    "dark": "/logo/SaturnT.png"
   },
   "navbar": {
     "links": [
