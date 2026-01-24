@@ -8,8 +8,8 @@
     "dark": "#3464e1"
   },
   "banner": {
-  "content": "⚠️ Saturn is currently not available, see our [updatelog](/help/updates) for more details.",
-  "dismissible": false 
+    "content": "🎉 Saturn is back! The first documentation update is live, view it now: [Update Log #1/24/2026](/help/updates#new-variable-reference-page)",
+    "dismissible": false
   },
 
   "favicon": "/Icon.png",
@@ -82,5 +82,8 @@
     "socials": {
       "discord": "https://discord.gg/HCmGGnFPWN"
     }
+  },
+  "metadata": {
+    "timestamp": true
   }
 }
