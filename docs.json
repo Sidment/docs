@@ -84,6 +84,11 @@
     }
   },
   "metadata": {
-    "timestamp": true
+    "timestamp": false
+  },
+  "errors": {
+    "404": {
+      "title": "This is a weird spot your in..."
+    }
   }
 }
