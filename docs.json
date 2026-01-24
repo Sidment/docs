@@ -88,7 +88,8 @@
   },
   "errors": {
     "404": {
-      "title": "This is a weird spot your in..."
+      "title": "This is a weird spot your in...",
+      "redirect": false
     }
   }
 }
