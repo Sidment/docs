@@ -35,7 +35,8 @@
             "group": "Bot Basics",
             "pages": [
               "introduction",
-              "variables"
+              "variables",
+              "plus"
             ]
           },
           {
