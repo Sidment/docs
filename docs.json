@@ -37,7 +37,13 @@
               "introduction",
               "variables",
               "plus",
-              "plus/plan_unavailable"
+              {
+                "group": "Paid Plans",
+                "hidden": true,
+                "pages": [
+                  "plus/plan_unavailable"
+                ]
+              }
             ]
           },
           {
