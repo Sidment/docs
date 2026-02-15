@@ -63,6 +63,12 @@
             "pages": [
               "guides/intro"
             ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/verification"
+            ]
           }
         ]
       }
