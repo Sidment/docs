@@ -59,9 +59,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Available Guides",
+            "group": "Welcome",
             "pages": [
-              "guides/available/verification"
+              "guides/intro"
             ]
           }
         ]
